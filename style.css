@@ -17,3 +17,129 @@
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
+
+header {
+   width: 100%;
+   height: 250px;
+   background-color: #ffffff;
+   margin: auto;
+ }
+  
+ nav {
+   width: 300px;
+   height: 900px;
+   margin: auto;
+   background-color: #eae8eb;
+ }
+  
+ #bigimage {
+   height: 300px;
+ }
+  
+ 
+ article {
+   height: 600px;
+   width: 600px;
+   float: left;
+   padding-left: 10px;
+   padding-right: 10px;
+   background-color: #eae8eb;
+ }
+  
+ .big {
+   width: 514px;
+   height: 700px;
+   
+ }
+  
+ .small {
+   width: 480px;
+   height: 700px;
+ }
+  
+ footer {
+   width: 100%;
+   height: 100px;
+   padding-bottom: 40px;
+   background-color: #eae8eb;
+   clear: both;
+ }
+
+ #wrapper {
+   width: 1950px;
+   height: 1500px;
+   color:#7D7880;
+   background-color: #eae8eb;
+   
+ }
+
+ .blok {
+   float: left;
+ }
+
+ .article {
+margin-left: 100px;
+margin-bottom: 50px;
+text-align: center;
+background-color: #ffffff;
+font-family:Georgia, 'Times New Roman', Times, serif
+ }
+
+ .foto {
+float: left;
+margin-left: 100px;
+margin-bottom: 33px;
+margin-top: 50px;
+ }
+
+ h1  { 
+color:#D57917;
+text-align:center;
+font-size: 500%;
+margin-top: 0px;
+ }
+
+ h2 {
+  color:red;
+  font-size:300%;
+  text-align:center;
+  margin: 10px;
+ }
+
+ h3 {
+  color:black;
+  font-size:400%;
+  text-align:center;
+  margin: 10px;
+ }
+
+ .table {
+  font-size:150%;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  text-align: left;
+ }
+
+ #kopje {
+  margin-bottom:15px;
+ }
+
+ #table {
+  margin-bottom: 40px;
+ }
+
+ #image {
+  Float: left;
+  Margin-top: 25px;
+  margin-right:100px;
+  margin-bottom: -5px;
+ }
+ 
+ 
+ .linkje {
+  text-decoration: none;
+ }
+
+ a:hover {
+text-decoration:underline;
+ }
