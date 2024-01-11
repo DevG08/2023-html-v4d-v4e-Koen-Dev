@@ -1,0 +1,42 @@
+header {
+    width: 100%;
+    background-color: white;
+    height :150px;
+}
+
+#wrapper {
+    width: 1950px;
+    height: 1500px;
+    background-color: #eae8eb;
+}
+
+#articleklein {
+    height: 400px;
+    width: 570px;
+    background-color: white;
+    float: left;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+#articlegroot {
+    height: 1000px;
+    width: 700px;
+    float: right;
+    margin-left: 150px;
+    background-color: white;
+    margin-right:150px;
+    margin-top: 50px;
+}
+
+H1 {
+    Font-size: 500%;
+    text-align:center;
+    color: #D57917;
+}
+
+#image {
+    float: left;
+    margin-left: 250px;
+    margin-top: 20px;
+}
