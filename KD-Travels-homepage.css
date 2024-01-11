@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navigationbar {
+    width: 33%;
+    height:100px;
+    background-color: #eae8eb;
+    float: left;
+}
+
+#navigationbar2 {
+    width: 34%;
+    height:100px;
+    background-color: #eae8eb;
+    float:left;
+}
+
+#navigationbar3 {
+    width: 33%;
+    height:100px;
+    background-color: #eae8eb;
+    float: left;
+}
