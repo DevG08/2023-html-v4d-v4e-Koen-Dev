@@ -1,0 +1,26 @@
+header {
+    height: 200px;
+    width:100%;
+    background-color: white;
+}
+
+#wrapper {
+    width: 1890px;
+    background-color: #eae8eb;
+    height: 1500px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 500%;
+    color: #D57917;
+    margin-top:-20px;
+}
+
+#article {
+    width: 500px;
+    height: 750px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+}
