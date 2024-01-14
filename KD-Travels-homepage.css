@@ -38,10 +38,15 @@ ul {
     padding-top: 5%;
     padding-bottom: 5%;
     text-decoration: none;
+    height: 75px;
   }
   
   li a:hover {
     background-color: #19191a;
+  }
+
+  .nav1 {
+    width:25%;
   }
 
   #article {
@@ -55,8 +60,8 @@ ul {
     float: left;
   }
 
-  .nav1 {
-    width:33%;
+  article p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
   
   #imagehomepage {
