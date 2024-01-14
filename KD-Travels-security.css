@@ -1,7 +1,10 @@
+body {
+    background-color: #eae8eb;
+}
+
 #wrapper {
     width: 100%;
     height: 1500px;
-    background-color: #eae8eb;
 }
 
 .homeblok {
@@ -12,6 +15,10 @@ h1 {
     font-size: 500%;
     color: #D57917;
     text-align: center;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
 }
 
 header {
@@ -39,8 +46,19 @@ header {
     height: 20%;
     background-color: white;
     float: right;
-    margin-top: 75px;
+    margin-top: 69px;
     margin-right: 100px;
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 85%;
+    text-align: center;
+}
+
+li {
+    font-size: 85%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 #imagebijbedreigingen-aanvallersetc {
@@ -56,23 +74,24 @@ header {
     height: 20%;
     background-color: white;
     float: right;
-    margin-top: 50px;
+    margin-top: 32px;
     margin-right: 100px;
 }
 
 #maatregelen {
-    width: 35%;
+    width: 36%;
     height: 20%;
-    background-color: beige;
+    background-color: white;
     float: left;
     margin-top: 75px;
     margin-left: 175px;
+    margin-right: 100px;
 }
 
 #imagebijmaatregelen {
     width: 35%;
-    height: 20%;
+    height: 23%;
     float: right;
-    margin-right: 175px;
-    margin-top: 75px;
+    margin-right: 160px;
+    margin-top: 77px;
 }
