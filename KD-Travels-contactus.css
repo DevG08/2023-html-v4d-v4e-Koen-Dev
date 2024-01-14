@@ -13,18 +13,17 @@ header {
 #articleklein {
     height: 400px;
     width: 25%;
-    background-color: white;
     float: left;
     margin-left: 250px;
     margin-top: 50px;
+    text-align: center;
 }
 
 #articlegroot {
     height: 1000px;
     width: 35%;
     float: right;
-    margin-left: 150px;
-    background-color: white;
+    margin-left: 150px;   
     margin-right:150px;
     margin-top: 50px;
 }
