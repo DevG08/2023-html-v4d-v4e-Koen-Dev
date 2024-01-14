@@ -19,6 +19,7 @@ h1 {
 
 h2 {
     font-family:'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 header {
@@ -30,7 +31,6 @@ header {
 #digitale-veiligheid {
     width: 35%;
     height: 20%;
-    background-color: white;
     float: left;
     margin-left: 175px;
 }
@@ -44,7 +44,6 @@ header {
 #bedreigingen {
     width: 35%;
     height: 20%;
-    background-color: white;
     float: right;
     margin-top: 69px;
     margin-right: 100px;
@@ -72,7 +71,6 @@ li {
 #aanvallers-verdedigers {
     width: 35%;
     height: 20%;
-    background-color: white;
     float: right;
     margin-top: 32px;
     margin-right: 100px;
@@ -80,8 +78,7 @@ li {
 
 #maatregelen {
     width: 36%;
-    height: 20%;
-    background-color: white;
+    height: 21%;
     float: left;
     margin-top: 75px;
     margin-left: 175px;
